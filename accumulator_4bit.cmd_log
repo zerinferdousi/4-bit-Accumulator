@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/shared/Accumulator_4bit/accumulator_4bit.xst" -ofn "/home/ise/shared/Accumulator_4bit/accumulator_4bit.syr" 
+xst -intstyle ise -ifn "/home/ise/shared/Accumulator_4bit/accumulator_4bit.xst" -ofn "/home/ise/shared/Accumulator_4bit/accumulator_4bit.syr" 

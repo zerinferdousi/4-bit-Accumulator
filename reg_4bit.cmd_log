@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/shared/Accumulator_4bit/reg_4bit.xst" -ofn "/home/ise/shared/Accumulator_4bit/reg_4bit.syr" 
